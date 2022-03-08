@@ -1,0 +1,6 @@
+domain: e3b0c442.dev
+layout:
+- go.kubebuilder.io/v3
+projectName: redis-operator
+repo: github.com/e3b0c442/redis-operator
+version: "3"
